@@ -1,0 +1,5 @@
+mysql-sandbox (3.0.43-1) UNRELEASED; urgency=low
+
+  * Initial Release.
+
+ -- KURASHIKI Satoru <lurdan@gmail.com>  Tue, 28 Jan 2014 15:19:57 +0900
